@@ -1,0 +1,14 @@
+1. 
+Ask for the first integer
+Get the first integer 
+Ask for the second integer
+Get the second integer
+return sum of both integers
+
+2.
+Use join method on array
+
+3.
+Iterate over the array
+For every even index turn element into string
+For every odd index turn element into key
